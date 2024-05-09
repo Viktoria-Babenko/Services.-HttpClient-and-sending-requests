@@ -1,0 +1,28 @@
+.img{display: inline; align-items: center; max-width: 550px ; margin:10px}
+p {font-family: Arial, sans-serif; font-size: 18px; margin:10px; line-height:1.5;}
+button{
+    background-color: rgb(232, 244, 129);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+.div{
+    display:flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    background-color: rgb(211, 121, 3);
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: burlywood;
+}
+.input{
+    width: 230px;
+    height: 130px;
+    border-radius: 25px;
+    margin: 5px;
+}
